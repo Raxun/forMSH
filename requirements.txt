@@ -1,0 +1,5 @@
+greenlet==1.1.2
+multidict==6.0.2
+pyTelegramBotAPI==4.6.1
+python-telegram-bot==13.13
+SQLAlchemy==1.4.39
